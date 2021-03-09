@@ -7,7 +7,7 @@
 
 <center>
 
-![demo1](https://raw.githubusercontent.com/Abhijith14/Calculator-App/master/readme_assets/demo_w.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![demo1](https://raw.githubusercontent.com/Abhijith14/Calculator-App/master/readme_assets/demo_w.png) &nbsp;&nbsp;&nbsp;&nbsp;
 ![demo2](https://raw.githubusercontent.com/Abhijith14/Calculator-App/master/readme_assets/demo_b.png)
 
 </center>
