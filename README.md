@@ -2,7 +2,7 @@
   A Calculator App
 </h1>
 <p align="center">
-  Be sure to ⭐ my configuration repo so you can keep up to date on any daily progress!
+  Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 </p>
 
 <center>
