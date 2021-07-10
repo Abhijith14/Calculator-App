@@ -6,6 +6,12 @@
 </p>
 
 <center>
+<img src='readme_assets/NeuCalc.png' width=300>
+</center>
+<br>
+<br>
+
+<center>
 
 ![demo1](https://raw.githubusercontent.com/Abhijith14/Calculator-App/master/readme_assets/demo_w.png) &nbsp;&nbsp;&nbsp;&nbsp;
 ![demo2](https://raw.githubusercontent.com/Abhijith14/Calculator-App/master/readme_assets/demo_b.png)
