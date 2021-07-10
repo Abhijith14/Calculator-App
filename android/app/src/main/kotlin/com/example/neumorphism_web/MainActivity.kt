@@ -1,4 +1,4 @@
-package com.example.neumorphism_web
+package com.abhijithudayakumar.neucalcu
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
