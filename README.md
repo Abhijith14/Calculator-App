@@ -5,9 +5,9 @@
   Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 </p>
 
-<center>
+<p align="center">
 <img src='readme_assets/NeuCalc.png' align="center" width=300>
-</center>
+</p>
 <br>
 <br>
 
