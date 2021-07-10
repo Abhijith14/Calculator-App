@@ -6,7 +6,7 @@
 </p>
 
 <center>
-<img src='readme_assets/NeuCalc.png' width=300>
+<img src='readme_assets/NeuCalc.png' align="center" width=300>
 </center>
 <br>
 <br>
