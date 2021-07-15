@@ -1,13 +1,15 @@
 <h1 align="center">
   A Calculator App
 </h1>
-<p align="center">
-  Be sure to ⭐ this repo so you can keep up to date on any daily progress!
-</p>
 
 <p align="center">
 <img src='readme_assets/icon-512x512.png' align="center" width=300>
 </p>
+
+<p align="center">
+  Be sure to ⭐ this repo so you can keep up to date on any daily progress!
+</p>
+
 <br>
 <br>
 
